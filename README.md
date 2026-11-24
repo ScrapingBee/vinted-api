@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="vinted-api" />
+    <img src="https://github.com/user-attachments/assets/6e0e47fc-e83f-4ce6-931a-ded295f743c2" alt="vinted-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/vinted-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/vinted-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/vinted-api.svg)](LICENSE)
